@@ -2,11 +2,9 @@
   "name": "pomodoro",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://mariamqaoud22.github.io/pomodoro",
   "type": "module",
   "scripts": {
-    "predeploy": "npm run build",
-  "deploy": "gh-pages -d dist",
+
     "dev": "vite",
     "build": "vite build",
     "lint": "eslint .",
